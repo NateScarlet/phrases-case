@@ -1,5 +1,6 @@
-# phrases_case
+# phrases case
 
+[![build status](https://github.com/NateScarlet/phrases-case/workflows/Python%20package/badge.svg)](https://github.com/NateScarlet/phrases-case/actions)
 [![version](https://img.shields.io/pypi/v/phrases-case)](https://pypi.org/project/phrases-case/)
 ![python version](https://img.shields.io/pypi/pyversions/phrases-case)
 ![wheel](https://img.shields.io/pypi/wheel/phrases-case)
