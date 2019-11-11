@@ -1,5 +1,9 @@
 # phrases_case
 
+[![version](https://img.shields.io/pypi/v/phrases-case)](https://pypi.org/project/phrases-case/)
+![python version](https://img.shields.io/pypi/pyversions/phrases-case)
+![wheel](https://img.shields.io/pypi/wheel/phrases-case)
+
 Convert phrases between different cases.
 
 Not using `re` module.
