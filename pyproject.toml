@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "phrases-case"
 version = "0.1.0"
-description = "Convert phrases between diffrent cases."
+description = "Convert phrases between different cases."
 authors = ["NateScarlet <NateScarlet@Gmail.com>"]
 license = "MIT"
 readme = "README.md"
