@@ -1,6 +1,6 @@
 # -*- coding=UTF-8 -*-
 """Convert phrases between different cases.  """
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 ASCII_UPPERCASE = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 SEPERATORS = '-_ '
